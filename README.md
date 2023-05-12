@@ -1,7 +1,7 @@
 ### Hi there, I'm Ana Vieira! 👋
 Oi pessoal, Sou a Ana Vieira 👋
 
-- 🌱 I’m currently learning Java FullStack 
+- 🌱 I’m currently learning to be a FullStack 
 - ⚡ Fun fact: My biggest hobby is play chess to increase my logical skills 
 - 💻 Future FullStack developer
 - 😄 Pronouns: Ela / She 
