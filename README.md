@@ -19,6 +19,7 @@ Oi pessoal, Sou a Ana Vieira 👋
   
   
 </div>
+
   
   ##
  
@@ -30,12 +31,17 @@ Oi pessoal, Sou a Ana Vieira 👋
 
           
 <div>
+
 <a href="https://github.com/Aninhahouse">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhahouse&layout&hide_progress=true=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aninhahouse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ 
+  <a href="https://github.com/Aninhahouse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aninhahouse&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Aninha's github stats" /></a>  <a href="https://github.com/Aninhahouse/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninhahouse&layout=compact&theme=tokyonight&hide_border=true" /></a> 
+ 
 </div>           
                                                                    
-                                                                   
+                                    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aninhahouse&theme=dark&hide_border=true)](https://git.io/streak-stats)
+                                    
+                                    
   ![snake gif](https://github.com/gisellesouzaa/gisellesouzaa/blob/output/github-contribution-grid-snake.svg)
   
 <!--
