@@ -41,8 +41,6 @@ Oi pessoal, Sou a Ana Vieira 👋
                                     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aninhahouse&theme=dark&hide_border=true)](https://git.io/streak-stats)
                                     
-                                    
-  ![snake gif](https://github.com/gisellesouzaa/gisellesouzaa/blob/output/github-contribution-grid-snake.svg)
   
 <!--
  <a href="https://discord.com/users/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
